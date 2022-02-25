@@ -1,3 +1,2 @@
-# github-qh44kj
+# Next.js-tailwindcss
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/github-qh44kj)
